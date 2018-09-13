@@ -16,3 +16,5 @@ LazyData: true
 project: DOIs
 Project: DOIs
 title: 🔗🔗 A curated collection of links about DOIs
+URL: https://github.com/mkearney/DOIs
+BugReports: https://github.com/mkearney/DOIs/issues
